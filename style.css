@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hero{
+    width: 100%;
+    height: 100vh;
+    background-color: red;
+}
+
+#home{
+    min-height: 100vh;
+    width: 100%;
+    overflow: hidden;
+}
+canvas{
+    max-width: 100vw;
+    max-height: 100vh;
+    /* background-color: gray; */
+
+}
+.about{
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+}
